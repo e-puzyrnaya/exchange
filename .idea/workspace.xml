@@ -1,51 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="CUSTOM_SCOPE_NAME" value="Project Files" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a23ca6d0-f140-4253-874f-a8a40bb9131f" name="Default Changelist" comment="Первый комит">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cancel_application.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chat.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/confirmed.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/cryptocoins.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/icon.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/normalize.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/sfui.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/currency_pair.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/employees-form-confirmed.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/employees-form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/employees.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/facilities.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Glyphter.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/SFProDisplay-Bold.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/SFProDisplay-Bold.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/SFProDisplay-Heavy.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/SFProDisplay-Heavy.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/SFProDisplay-Medium.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/SFProDisplay-Medium.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/SFProDisplay-Regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/SFProDisplay-Regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/SFProDisplay-Semibold.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/SFProDisplay-Semibold.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/cryptocoins.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/cryptocoins.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/cryptocoins.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/form-confirmed.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/limit-input-output.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/limit-on-orders.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modal-form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/support-user.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/support.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/table.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/verification-form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/verification-user.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/verification.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wallets.html" afterDir="false" />
-    </list>
+    <list default="true" id="a23ca6d0-f140-4253-874f-a8a40bb9131f" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +18,7 @@
         <entry file="file://$PROJECT_DIR$/css/icon.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="190">
-              <caret line="37" column="34" lean-forward="true" selection-start-line="37" selection-start-column="34" selection-end-line="37" selection-end-column="34" />
+              <caret line="37" column="34" selection-start-line="37" selection-start-column="34" selection-end-line="37" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -67,8 +26,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/support-user.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="424">
-              <caret line="132" lean-forward="true" selection-start-line="132" selection-end-line="132" />
+            <state relative-caret-position="637">
+              <caret line="128" column="14" selection-start-line="128" selection-start-column="14" selection-end-line="128" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -107,26 +66,21 @@
     <panes>
       <pane id="PackagesPane" />
       <pane id="ProjectPane" />
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
-            <path>
-              <item name="exchange" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="D:\www\exchange" type="442cc68d:ScopeViewTreeModel$RootNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="MANAGE_IGNORE_FILES_PROPERTY" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -156,25 +110,32 @@
       <option name="presentableId" value="Default" />
       <updated>1554287875500</updated>
       <workItem from="1554287881373" duration="320000" />
-      <workItem from="1554407828050" duration="339000" />
+      <workItem from="1554407828050" duration="705000" />
     </task>
+    <task id="LOCAL-00001" summary="Первый комит">
+      <created>1554408181886</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1554408181886</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="659000" />
+    <option name="totallyTimeSpent" value="1025000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Messages" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -211,23 +172,92 @@
     <entry file="file://$PROJECT_DIR$/css/icon.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
-          <caret line="37" column="34" lean-forward="true" selection-start-line="37" selection-start-column="34" selection-end-line="37" selection-end-column="34" />
+          <caret line="37" column="34" selection-start-line="37" selection-start-column="34" selection-end-line="37" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/support-user.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="424">
-          <caret line="132" lean-forward="true" selection-start-line="132" selection-end-line="132" />
+        <state relative-caret-position="637">
+          <caret line="128" column="14" selection-start-line="128" selection-start-column="14" selection-end-line="128" selection-end-column="14" />
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>exchange</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>
