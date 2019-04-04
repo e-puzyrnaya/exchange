@@ -1,0 +1,95 @@
+@font-face {
+  font-family: 'Glyphter';
+  src: url(../fonts/Glyphter.woff) format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+.icon:before{
+  display: inline-block;
+    font-family: 'Glyphter';
+
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale
+}
+.icon-arrow:before{content:'\0041';}
+.icon-bell:before{content:'\0042';}
+.icon-close:before{content:'\0043';}
+.icon-graph:before{content:'\0044';}
+.icon-list:before{content:'\0045';}
+.icon-lock:before{content:'\0046';}
+.icon-message:before{content:'\0047';}
+.icon-pencil:before{content:'\0048';}
+.icon-search:before{content:'\0049';}
+.icon-settings:before{content:'\004a';}
+.icon-speech:before{content:'\004b';}
+.icon-star:before{content:'\004c';}
+.icon-support:before{content:'\004d';}
+.icon-triangle:before{content:'\004e';}
+.icon-update:before{content:'\004f';}
+.icon-user:before{content:'\0050';}
+.icon-upload:before{content:'\0051';}
+.icon-AGI:before{content:'\0052';}
+.icon-AID:before{content:'\0053';}
+.icon-AIO:before{content:'\0054';}
+.icon-ANT:before{content:'\0055';}
+.icon-AVT:before{content:'\0056';}
+.icon-BAT:before{content:'\0057';}
+.icon-BCH:before{content:'\0058';}
+.icon-BCI:before{content:'\0059';}
+.icon-BFT:before{content:'\005a';}
+.icon-BTC:before{content:'\0061';}
+.icon-BTG:before{content:'\0062';}
+.icon-CFI:before{content:'\0063';}
+.icon-DAI:before{content:'\0064';}
+.icon-DAT:before{content:'\0065';}
+.icon-DSH:before{content:'\0066';}
+.icon-DTH:before{content:'\0067';}
+.icon-EDO:before{content:'\0068';}
+.icon-ELF:before{content:'\0069';}
+.icon-EOS:before{content:'\006a';}
+.icon-ETC:before{content:'\006b';}
+.icon-ETH:before{content:'\006c';}
+.icon-ETP:before{content:'\006d';}
+.icon-FUN:before{content:'\006e';}
+.icon-GNT:before{content:'\006f';}
+.icon-IOS:before{content:'\0070';}
+.icon-IOT:before{content:'\0071';}
+.icon-KNC:before{content:'\0072';}
+.icon-LRC:before{content:'\0073';}
+.icon-LTC:before{content:'\0074';}
+.icon-MIT:before{content:'\0075';}
+.icon-MKR:before{content:'\0076';}
+.icon-MNA:before{content:'\0077';}
+.icon-MTN:before{content:'\0078';}
+.icon-NEO:before{content:'\0079';}
+.icon-ODE:before{content:'\007a';}
+.icon-OMG:before{content:'\0030';}
+.icon-POA:before{content:'\0031';}
+.icon-QSH:before{content:'\0032';}
+.icon-QTM:before{content:'\0033';}
+.icon-RCN:before{content:'\0034';}
+.icon-RDN:before{content:'\0035';}
+.icon-REP:before{content:'\0036';}
+.icon-REQ:before{content:'\0037';}
+.icon-RLC:before{content:'\0038';}
+.icon-RRT:before{content:'\0039';}
+.icon-SAN:before{content:'\0021';}
+.icon-SNG:before{content:'\0022';}
+.icon-SNT:before{content:'\0023';}
+.icon-SPK:before{content:'\0024';}
+.icon-STJ:before{content:'\0025';}
+.icon-TNB:before{content:'\0026';}
+.icon-TRX:before{content:'\0027';}
+.icon-USD:before{content:'\0028';}
+.icon-VEN:before{content:'\0029';}
+.icon-WAX:before{content:'\002a';}
+.icon-XLM:before{content:'\002b';}
+.icon-XMR:before{content:'\002c';}
+.icon-XRP:before{content:'\002d';}
+.icon-XVG:before{content:'\002e';}
+.icon-YYW:before{content:'\002f';}
+.icon-ZEC:before{content:'\005b';}
+.icon-ZRX:before{content:'\005c';}
